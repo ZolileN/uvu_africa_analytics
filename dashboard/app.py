@@ -329,7 +329,7 @@ if isinstance(page, str) and "Executive Overview" in page:
                 textfont=dict(color="#8b9ab5", size=11),
                 hovertemplate="<b>%{y}</b><br>Startups: %{x}<extra></extra>",
             ))
-            fig.update_layout(layout=PLOTLY_THEME, height=320)
+            fig.update_layout(PLOTLY_THEME, height=320)
             st.plotly_chart(fig, use_container_width=True)
 
     with col_b:
@@ -351,7 +351,7 @@ if isinstance(page, str) and "Executive Overview" in page:
                 x=0.5, y=0.5, showarrow=False,
                 font=dict(size=20, color="#e8eaf0"),
             )
-            fig2.update_layout(layout=PLOTLY_THEME, height=320, showlegend=False)
+            fig2.update_layout(PLOTLY_THEME, height=320, showlegend=False)
             st.plotly_chart(fig2, use_container_width=True)
 
     # ── Row 3: Talent growth over time ──
@@ -377,7 +377,7 @@ if isinstance(page, str) and "Executive Overview" in page:
             marker=dict(size=7, color="#00e5a0"),
             fill="tozeroy", fillcolor="rgba(0,229,160,0.07)",
         ))
-        fig3.update_layout(layout=PLOTLY_THEME, height=250)
+        fig3.update_layout(PLOTLY_THEME, height=250)
         st.plotly_chart(fig3, use_container_width=True)
 
     # ── Insight cards ──
@@ -455,7 +455,7 @@ elif isinstance(page, str) and "Startup Ecosystem" in page:
             labels={"funding_usd": "Total Funding (USD)", "sector": ""},
         )
         fig.update_traces(hovertemplate="<b>%{x}</b><br>$%{y:,.0f}<extra></extra>")
-        fig.update_layout(layout=PLOTLY_THEME, height=320, showlegend=False, coloraxis_showscale=False)
+        fig.update_layout(PLOTLY_THEME, height=320, showlegend=False, coloraxis_showscale=False)
         st.plotly_chart(fig, use_container_width=True)
 
     with col2:
@@ -469,7 +469,7 @@ elif isinstance(page, str) and "Startup Ecosystem" in page:
             labels={"count": "Startups", "country": ""},
         )
         fig2.update_traces(hovertemplate="<b>%{y}</b><br>%{x} startups<extra></extra>")
-        fig2.update_layout(layout=PLOTLY_THEME, height=320, showlegend=False, coloraxis_showscale=False)
+        fig2.update_layout(PLOTLY_THEME, height=320, showlegend=False, coloraxis_showscale=False)
         st.plotly_chart(fig2, use_container_width=True)
 
     # ── Funding distribution + Growth over time ──
@@ -483,7 +483,7 @@ elif isinstance(page, str) and "Startup Ecosystem" in page:
             color_discrete_sequence=["#7b61ff"],
         )
         fig3.update_traces(hovertemplate="$%{x:,.0f}<br>%{y} startups<extra></extra>")
-        fig3.update_layout(layout=PLOTLY_THEME, height=280)
+        fig3.update_layout(PLOTLY_THEME, height=280)
         st.plotly_chart(fig3, use_container_width=True)
 
     with col4:
@@ -497,7 +497,7 @@ elif isinstance(page, str) and "Startup Ecosystem" in page:
             fill="tozeroy", fillcolor="rgba(255,209,102,0.07)",
             hovertemplate="<b>%{x}</b>: %{y} startups<extra></extra>",
         ))
-        fig4.update_layout(layout=PLOTLY_THEME, height=280)
+        fig4.update_layout(PLOTLY_THEME, height=280)
         st.plotly_chart(fig4, use_container_width=True)
 
     # ── Scatter: funding vs employees ──
@@ -511,7 +511,7 @@ elif isinstance(page, str) and "Startup Ecosystem" in page:
             color_discrete_sequence=COLOR_SEQ,
             labels={"employees": "Team Size", "funding_usd": "Funding (USD)", "sector": "Sector"},
         )
-        fig5.update_layout(layout=PLOTLY_THEME, height=380)
+        fig5.update_layout(PLOTLY_THEME, height=380)
         st.plotly_chart(fig5, use_container_width=True)
 
     # ── Data table ──
@@ -570,7 +570,7 @@ elif isinstance(page, str) and "Talent Pipeline" in page:
         color_discrete_sequence=COLOR_SEQ,
         labels={"graduates": "Graduates", "year": "Year", "program_name": "Programme"},
     )
-    fig.update_layout(layout=PLOTLY_THEME, height=300)
+    fig.update_layout(PLOTLY_THEME, height=300)
     st.plotly_chart(fig, use_container_width=True)
 
     # ── Placement rate + Skills demand ──
@@ -593,7 +593,7 @@ elif isinstance(page, str) and "Talent Pipeline" in page:
             textfont=dict(color="#8b9ab5"),
             hovertemplate="<b>%{x}</b><br>Placement rate: %{y:.1f}%<extra></extra>",
         ))
-        fig2.update_layout(layout=PLOTLY_THEME, height=300, yaxis_title="Placement Rate (%)")
+        fig2.update_layout(PLOTLY_THEME, height=300, yaxis_title="Placement Rate (%)")
         st.plotly_chart(fig2, use_container_width=True)
 
     with col2:
@@ -615,7 +615,7 @@ elif isinstance(page, str) and "Talent Pipeline" in page:
                 textfont=dict(color="#8b9ab5"),
                 hovertemplate="<b>%{y}</b><br>%{x} programme runs<extra></extra>",
             ))
-            fig3.update_layout(layout=PLOTLY_THEME, height=300)
+            fig3.update_layout(PLOTLY_THEME, height=300)
             st.plotly_chart(fig3, use_container_width=True)
 
     # ── Hiring sectors ──
@@ -633,7 +633,7 @@ elif isinstance(page, str) and "Talent Pipeline" in page:
             textfont=dict(color="#8b9ab5", size=11),
             hovertemplate="<b>%{label}</b>: %{value} programme runs<extra></extra>",
         )
-        fig4.update_layout(layout=PLOTLY_THEME, height=320, showlegend=False)
+        fig4.update_layout(PLOTLY_THEME, height=320, showlegend=False)
         st.plotly_chart(fig4, use_container_width=True)
 
     # ── Insight ──
@@ -688,7 +688,7 @@ elif isinstance(page, str) and "Ecosystem Partners" in page:
             textinfo="label+percent",
             textfont=dict(color="#8b9ab5", size=11),
         ))
-        fig.update_layout(layout=PLOTLY_THEME, height=320, showlegend=False)
+        fig.update_layout(PLOTLY_THEME, height=320, showlegend=False)
         st.plotly_chart(fig, use_container_width=True)
 
     with col2:
@@ -708,7 +708,7 @@ elif isinstance(page, str) and "Ecosystem Partners" in page:
             textposition="outside",
             textfont=dict(color="#8b9ab5"),
         ))
-        fig2.update_layout(layout=PLOTLY_THEME, height=320)
+        fig2.update_layout(PLOTLY_THEME, height=320)
         st.plotly_chart(fig2, use_container_width=True)
 
     # ── Partners table ──
@@ -793,7 +793,7 @@ elif isinstance(page, str) and "Innovation Trends" in page:
                 textfont=dict(color="#8b9ab5"),
                 hovertemplate="<b>%{x}</b>: %{y} articles<extra></extra>",
             ))
-            fig.update_layout(layout=PLOTLY_THEME, height=300)
+            fig.update_layout(PLOTLY_THEME, height=300)
             st.plotly_chart(fig, use_container_width=True)
 
     # ── Topics ──
@@ -815,7 +815,7 @@ elif isinstance(page, str) and "Innovation Trends" in page:
             textfont=dict(color="#8b9ab5"),
             hovertemplate="<b>%{y}</b><br>%{x} articles<extra></extra>",
         ))
-        fig2.update_layout(layout=PLOTLY_THEME, height=300)
+        fig2.update_layout(PLOTLY_THEME, height=300)
         st.plotly_chart(fig2, use_container_width=True)
 
     # ── Sources + sentiment ──
@@ -833,7 +833,7 @@ elif isinstance(page, str) and "Innovation Trends" in page:
             textinfo="label+percent",
             textfont=dict(color="#8b9ab5", size=11),
         ))
-        fig3.update_layout(layout=PLOTLY_THEME, height=300, showlegend=False)
+        fig3.update_layout(PLOTLY_THEME, height=300, showlegend=False)
         st.plotly_chart(fig3, use_container_width=True)
 
     with col4:
@@ -852,7 +852,7 @@ elif isinstance(page, str) and "Innovation Trends" in page:
                 textfont=dict(color="#8b9ab5"),
                 hovertemplate="<b>%{x}</b>: %{y} articles<extra></extra>",
             ))
-            fig4.update_layout(layout=PLOTLY_THEME, height=300)
+            fig4.update_layout(PLOTLY_THEME, height=300)
             st.plotly_chart(fig4, use_container_width=True)
 
     # ── Recent headlines ──
