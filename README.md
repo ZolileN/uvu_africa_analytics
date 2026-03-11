@@ -1,6 +1,6 @@
 # UVU Africa Innovation Ecosystem Dashboard
 
-> A data analytics project that tells the story of UVU Africa's impact on Africa's digital economy — using public data, automated pipelines, and interactive dashboards.
+A data analytics project that tells the story of UVU Africa's impact on Africa's digital economy — using public data, automated pipelines, and interactive dashboards.
 
 ---
 
@@ -75,7 +75,7 @@ news_mentions     → innovation theme analysis
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/uvu_africa_analytics.git
+git clone https://github.com/ZolileN/uvu_africa_analytics.git
 cd uvu_africa_analytics
 ```
 
@@ -169,7 +169,7 @@ This will:
 
 ## Author
 
-Built as a portfolio analytics project for a Data Analyst role application at **UVU Africa**.
+Built by Zolile Nonzapa as a portfolio analytics project for a Data Analyst role application at **UVU Africa**.
 
 ---
 
