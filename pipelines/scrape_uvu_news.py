@@ -77,7 +77,7 @@ def scrape_source(config: dict) -> list[dict]:
         response = requests.get(config["url"], headers=HEADERS, timeout=10)
         response.raise_for_status()
 
-        soup = BeautifulSoup(response.text, "lxml")
+        soup = BeautifulSoup(response.text, "html.parser")
         posts = soup.find_all(config["article_tag"])
 
         if not posts:
