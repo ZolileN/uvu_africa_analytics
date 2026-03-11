@@ -1,0 +1,101 @@
+article_id,title,source,date,year,topic,sentiment
+1,UVU Africa launches new biotech lab in Cape Town,MyBroadband,2022-05-14,2022,FinTech,Positive
+2,CAPACITI programme places hundreds of graduates in tech roles,Ventureburn,2020-12-12,2020,Startup Funding,Positive
+3,UVU Africa expands to Kigali Rwanda,Ventureburn,2019-05-22,2019,CleanTech,Positive
+4,Injini EdTech incubator supports 20 new startups,Daily Maverick,2023-10-06,2023,Innovation Policy,Positive
+5,UVU Africa partners with Microsoft for digital skills,BusinessTech,2021-06-06,2021,Innovation Policy,Positive
+6,African startup ecosystem sees record FinTech investment,Disrupt Africa,2021-06-10,2021,Digital Skills,Neutral
+7,UVU Africa and UCT collaborate on AI innovation hub,Daily Maverick,2021-08-10,2021,Digital Skills,Positive
+8,Digital skills gap in South Africa addressed by UVU Africa,Disrupt Africa,2023-10-11,2023,FinTech,Positive
+9,UVU Africa rebrands from CiTi to reflect pan-African mission,Disrupt Africa,2021-07-12,2021,Innovation Policy,Neutral
+10,UVU Bio opens Africa's first open-access biotech laboratory,TechCabal,2020-11-19,2020,Innovation Policy,Positive
+11,South Africa's tech ecosystem grows despite economic headwinds,Daily Maverick,2020-01-08,2020,Biotechnology,Positive
+12,UVU Africa announces new accelerator cohort,BusinessTech,2023-06-22,2023,CleanTech,Positive
+13,EdTech startups rising across sub-Saharan Africa,ITWeb,2022-05-05,2022,Digital Skills,Positive
+14,Government and UVU Africa partner on township digital access,Disrupt Africa,2021-11-24,2021,FinTech,Positive
+15,AI adoption accelerating in South African startups,Daily Maverick,2023-01-14,2023,Innovation Policy,Positive
+16,UVU Africa graduate placed at leading FinTech company,Daily Maverick,2022-11-15,2022,Innovation Policy,Neutral
+17,Cape Town ranked top African city for startup ecosystems,TechCabal,2023-06-12,2023,FinTech,Positive
+18,UVU Africa trains 6000 entrepreneurs over 25 years,Daily Maverick,2020-03-29,2020,Biotechnology,Positive
+19,CleanTech innovation hub opens at Bandwidth Barn,Ventureburn,2022-09-21,2022,CleanTech,Neutral
+20,UVU Africa and AWS partner for cloud skills training,Ventureburn,2022-02-07,2022,CleanTech,Neutral
+21,HealthTech startups gaining traction in African markets,Ventureburn,2023-03-08,2023,CleanTech,Positive
+22,UVU Africa CAPACITI cohort graduates 500 tech professionals,Daily Maverick,2022-12-10,2022,Digital Skills,Positive
+23,Innovation ecosystems expanding beyond Cape Town,Disrupt Africa,2020-05-29,2020,FinTech,Positive
+24,UVU Africa supports agritech startup in Limpopo,TechCabal,2020-10-08,2020,AI/ML,Positive
+25,Cybersecurity skills shortage tackled by UVU Africa programme,ITWeb,2020-03-19,2020,Innovation Policy,Positive
+26,UVU Africa featured in World Economic Forum report,Ventureburn,2023-01-23,2023,Digital Skills,Positive
+27,Pan-African startup funding reaches new highs in 2023,Disrupt Africa,2023-09-02,2023,Digital Skills,Positive
+28,UVU Africa wins innovation ecosystem award,Disrupt Africa,2021-01-09,2021,Digital Skills,Positive
+29,Digital economy jobs growing fastest in South Africa,Ventureburn,2022-12-21,2022,AI/ML,Positive
+30,UVU Africa announces Johannesburg expansion plans,TechCabal,2019-04-04,2019,Digital Skills,Positive
+31,African tech ecosystem update #31,BusinessTech,2022-07-30,2022,Startup Funding,Negative
+32,African tech ecosystem update #32,Daily Maverick,2019-07-30,2019,Innovation Policy,Positive
+33,African tech ecosystem update #33,Ventureburn,2022-03-21,2022,EdTech,Neutral
+34,African tech ecosystem update #34,ITWeb,2021-08-19,2021,FinTech,Negative
+35,African tech ecosystem update #35,MyBroadband,2021-06-21,2021,AI/ML,Neutral
+36,African tech ecosystem update #36,TechCabal,2020-01-13,2020,Biotechnology,Positive
+37,African tech ecosystem update #37,Disrupt Africa,2020-06-01,2020,Digital Skills,Negative
+38,African tech ecosystem update #38,BusinessTech,2019-08-22,2019,CleanTech,Positive
+39,African tech ecosystem update #39,Daily Maverick,2021-03-31,2021,Startup Funding,Negative
+40,African tech ecosystem update #40,Ventureburn,2019-06-01,2019,Innovation Policy,Positive
+41,African tech ecosystem update #41,ITWeb,2019-11-07,2019,EdTech,Positive
+42,African tech ecosystem update #42,MyBroadband,2023-07-20,2023,FinTech,Neutral
+43,African tech ecosystem update #43,TechCabal,2019-06-24,2019,AI/ML,Positive
+44,African tech ecosystem update #44,Disrupt Africa,2019-08-31,2019,Biotechnology,Negative
+45,African tech ecosystem update #45,BusinessTech,2022-05-26,2022,Digital Skills,Positive
+46,African tech ecosystem update #46,Daily Maverick,2023-05-08,2023,CleanTech,Negative
+47,African tech ecosystem update #47,Ventureburn,2021-07-11,2021,Startup Funding,Negative
+48,African tech ecosystem update #48,ITWeb,2020-08-31,2020,Innovation Policy,Negative
+49,African tech ecosystem update #49,MyBroadband,2020-09-17,2020,EdTech,Positive
+50,African tech ecosystem update #50,TechCabal,2022-06-02,2022,FinTech,Positive
+51,African tech ecosystem update #51,Disrupt Africa,2023-04-12,2023,AI/ML,Positive
+52,African tech ecosystem update #52,BusinessTech,2022-07-05,2022,Biotechnology,Positive
+53,African tech ecosystem update #53,Daily Maverick,2020-06-25,2020,Digital Skills,Positive
+54,African tech ecosystem update #54,Ventureburn,2019-11-18,2019,CleanTech,Positive
+55,African tech ecosystem update #55,ITWeb,2019-12-22,2019,Startup Funding,Positive
+56,African tech ecosystem update #56,MyBroadband,2019-11-17,2019,Innovation Policy,Positive
+57,African tech ecosystem update #57,TechCabal,2021-04-16,2021,EdTech,Negative
+58,African tech ecosystem update #58,Disrupt Africa,2022-11-12,2022,FinTech,Negative
+59,African tech ecosystem update #59,BusinessTech,2020-08-19,2020,AI/ML,Positive
+60,African tech ecosystem update #60,Daily Maverick,2020-04-19,2020,Biotechnology,Neutral
+61,African tech ecosystem update #61,Ventureburn,2022-12-18,2022,Digital Skills,Neutral
+62,African tech ecosystem update #62,ITWeb,2022-12-10,2022,CleanTech,Negative
+63,African tech ecosystem update #63,MyBroadband,2019-05-26,2019,Startup Funding,Positive
+64,African tech ecosystem update #64,TechCabal,2024-03-07,2024,Innovation Policy,Neutral
+65,African tech ecosystem update #65,Disrupt Africa,2023-06-02,2023,EdTech,Positive
+66,African tech ecosystem update #66,BusinessTech,2021-05-20,2021,FinTech,Positive
+67,African tech ecosystem update #67,Daily Maverick,2022-01-20,2022,AI/ML,Positive
+68,African tech ecosystem update #68,Ventureburn,2022-08-19,2022,Biotechnology,Positive
+69,African tech ecosystem update #69,ITWeb,2024-02-04,2024,Digital Skills,Neutral
+70,African tech ecosystem update #70,MyBroadband,2023-08-20,2023,CleanTech,Positive
+71,African tech ecosystem update #71,TechCabal,2019-05-27,2019,Startup Funding,Positive
+72,African tech ecosystem update #72,Disrupt Africa,2019-12-06,2019,Innovation Policy,Neutral
+73,African tech ecosystem update #73,BusinessTech,2022-05-03,2022,EdTech,Neutral
+74,African tech ecosystem update #74,Daily Maverick,2021-06-18,2021,FinTech,Positive
+75,African tech ecosystem update #75,Ventureburn,2021-08-17,2021,AI/ML,Neutral
+76,African tech ecosystem update #76,ITWeb,2022-12-04,2022,Biotechnology,Negative
+77,African tech ecosystem update #77,MyBroadband,2020-07-11,2020,Digital Skills,Negative
+78,African tech ecosystem update #78,TechCabal,2021-06-15,2021,CleanTech,Positive
+79,African tech ecosystem update #79,Disrupt Africa,2022-05-09,2022,Startup Funding,Positive
+80,African tech ecosystem update #80,BusinessTech,2023-12-27,2023,Innovation Policy,Negative
+81,African tech ecosystem update #81,Daily Maverick,2023-02-13,2023,EdTech,Neutral
+82,African tech ecosystem update #82,Ventureburn,2022-05-21,2022,FinTech,Neutral
+83,African tech ecosystem update #83,ITWeb,2019-02-22,2019,AI/ML,Positive
+84,African tech ecosystem update #84,MyBroadband,2020-04-13,2020,Biotechnology,Positive
+85,African tech ecosystem update #85,TechCabal,2023-04-16,2023,Digital Skills,Neutral
+86,African tech ecosystem update #86,Disrupt Africa,2022-03-26,2022,CleanTech,Positive
+87,African tech ecosystem update #87,BusinessTech,2023-04-12,2023,Startup Funding,Positive
+88,African tech ecosystem update #88,Daily Maverick,2021-08-21,2021,Innovation Policy,Negative
+89,African tech ecosystem update #89,Ventureburn,2024-02-20,2024,EdTech,Neutral
+90,African tech ecosystem update #90,ITWeb,2020-01-07,2020,FinTech,Negative
+91,African tech ecosystem update #91,MyBroadband,2022-07-24,2022,AI/ML,Negative
+92,African tech ecosystem update #92,TechCabal,2019-07-06,2019,Biotechnology,Negative
+93,African tech ecosystem update #93,Disrupt Africa,2020-12-13,2020,Digital Skills,Negative
+94,African tech ecosystem update #94,BusinessTech,2020-11-13,2020,CleanTech,Neutral
+95,African tech ecosystem update #95,Daily Maverick,2022-10-04,2022,Startup Funding,Positive
+96,African tech ecosystem update #96,Ventureburn,2023-10-23,2023,Innovation Policy,Positive
+97,African tech ecosystem update #97,ITWeb,2020-11-06,2020,EdTech,Negative
+98,African tech ecosystem update #98,MyBroadband,2022-11-21,2022,FinTech,Negative
+99,African tech ecosystem update #99,TechCabal,2020-08-13,2020,AI/ML,Negative
+100,African tech ecosystem update #100,Disrupt Africa,2023-07-25,2023,Biotechnology,Positive

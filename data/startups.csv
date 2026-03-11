@@ -1,0 +1,107 @@
+startup_id,startup_name,sector,country,founded_year,funding_usd,program_id,status,employees
+1,PayBright,FinTech,Kenya,2015,6250576,5,Acquired,30
+2,LearnLoop,EdTech,Nigeria,2016,5706566,9,Active,77
+3,DataSense,AI/ML,Uganda,2015,279957,2,Acquired,31
+4,MedTrack,HealthTech,South Africa,2023,1697971,9,Early Stage,30
+5,BioNova,Biotechnology,Ethiopia,2024,2363632,1,Acquired,91
+6,SolarStream,CleanTech,Uganda,2020,2360953,3,Acquired,99
+7,FarmIQ,AgriTech,Tanzania,2016,808008,7,Active,47
+8,ShieldNet,Cybersecurity,Tanzania,2024,2248961,1,Early Stage,70
+9,CapiPay,FinTech,Kenya,2021,691023,9,Scaling,108
+10,EduPath,EdTech,Tanzania,2024,1643033,2,Active,86
+11,Neuro AI,AI/ML,Rwanda,2019,699343,4,Active,50
+12,HealthHub,HealthTech,Ghana,2022,5362507,6,Acquired,49
+13,GenomicsZA,Biotechnology,Tanzania,2018,5651836,5,Active,79
+14,GreenGrid,CleanTech,Nigeria,2023,6146358,4,Acquired,61
+15,CropCast,AgriTech,Uganda,2019,7792743,9,Acquired,89
+16,CyberAfrica,Cybersecurity,Tanzania,2015,1951394,1,Scaling,53
+17,MobiBank,FinTech,Ghana,2016,1799852,10,Scaling,29
+18,ClassCloud,EdTech,Ethiopia,2021,7451260,8,Acquired,35
+19,VisionAI,AI/ML,Nigeria,2018,6279420,9,Closed,35
+20,CareConnect,HealthTech,Uganda,2024,3380414,6,Acquired,19
+21,BioSpark,Biotechnology,Ethiopia,2016,6369960,1,Active,21
+22,WindWave,CleanTech,Nigeria,2021,5033041,2,Early Stage,50
+23,RootAI,AgriTech,Ethiopia,2023,2139014,9,Active,89
+24,LockChain,Cybersecurity,Kenya,2023,6328819,5,Scaling,16
+25,SwiftCash,FinTech,Ghana,2021,1356723,8,Active,94
+26,SkillBridge,EdTech,Ghana,2023,6421802,3,Closed,118
+27,DeepData,AI/ML,Kenya,2019,7090434,9,Closed,27
+28,NurseTech,HealthTech,Nigeria,2020,6426404,3,Closed,101
+29,LabSync,Biotechnology,South Africa,2024,2749218,8,Active,16
+30,SunPower,CleanTech,Tanzania,2019,2038671,1,Acquired,114
+31,PrecisionFarm,AgriTech,Kenya,2016,6169685,8,Active,99
+32,SafeID,Cybersecurity,Nigeria,2017,5564391,8,Closed,23
+33,FlexPay,FinTech,Ghana,2023,7348498,10,Early Stage,29
+34,OpenEdu,EdTech,Rwanda,2019,3376989,6,Early Stage,117
+35,AIHarvest,AI/ML,Ethiopia,2016,2109583,4,Active,45
+36,ClinixAI,HealthTech,South Africa,2024,4676630,4,Closed,30
+37,CellTech,Biotechnology,South Africa,2016,5967800,1,Acquired,10
+38,EcoCharge,CleanTech,South Africa,2020,624394,9,Acquired,37
+39,AgriSense,AgriTech,Ethiopia,2018,4553422,3,Closed,75
+40,NetGuard,Cybersecurity,Ethiopia,2018,6611864,8,Early Stage,26
+41,WalletX,FinTech,Kenya,2016,5557947,7,Scaling,56
+42,TutorBot,EdTech,Uganda,2022,7276387,1,Active,9
+43,SmartVision,AI/ML,Uganda,2020,6745856,2,Acquired,26
+44,HealthIQ,HealthTech,Rwanda,2023,3793243,3,Early Stage,25
+45,BioMatrix,Biotechnology,Ghana,2022,2125528,2,Early Stage,105
+46,BluEnergy,CleanTech,Kenya,2015,5500587,9,Active,13
+47,FieldBot,AgriTech,Rwanda,2017,3439248,8,Early Stage,29
+48,TrustLayer,Cybersecurity,Uganda,2015,1411076,7,Active,51
+49,QuickFunds,FinTech,Ghana,2022,2422843,7,Closed,86
+50,CourseAI,EdTech,Ethiopia,2017,1622978,5,Acquired,9
+51,DataFarm,AI/ML,South Africa,2020,509537,1,Closed,63
+52,MedBot,HealthTech,Nigeria,2015,4289974,2,Acquired,10
+53,NanoLab,Biotechnology,Kenya,2018,3417114,2,Closed,33
+54,ChargeSA,CleanTech,South Africa,2024,717726,7,Closed,74
+55,SoilSense,AgriTech,Tanzania,2019,1743450,6,Acquired,35
+56,AuthShield,Cybersecurity,Uganda,2017,5664545,5,Early Stage,42
+57,CreditLink,FinTech,Kenya,2015,3874377,10,Closed,14
+58,LearnAI,EdTech,Kenya,2023,1818067,9,Scaling,18
+59,AgroTrack,AI/ML,Tanzania,2016,7405853,4,Scaling,38
+60,PharmaBot,HealthTech,Nigeria,2022,7023959,9,Scaling,80
+61,PeptideCo,Biotechnology,South Africa,2023,2541370,2,Acquired,35
+62,SolarBee,CleanTech,Kenya,2016,6257842,9,Acquired,36
+63,HarvestIQ,AgriTech,Ghana,2024,1796889,6,Acquired,89
+64,SecurePay,Cybersecurity,Ghana,2023,4128102,5,Active,13
+65,TransferGo,FinTech,Uganda,2019,399826,1,Scaling,100
+66,EduCloud,EdTech,Nigeria,2019,1385447,8,Closed,92
+67,CropMind,AI/ML,Uganda,2023,111115,2,Active,115
+68,ClinicNet,HealthTech,Nigeria,2023,332225,6,Closed,72
+69,CellVault,Biotechnology,Nigeria,2021,1099090,1,Scaling,48
+70,WindCore,CleanTech,South Africa,2020,1792249,4,Active,47
+71,FarmData,AgriTech,Uganda,2024,6317073,3,Acquired,112
+72,CipherNet,Cybersecurity,Nigeria,2017,7423855,7,Active,24
+73,LoanTech,FinTech,Tanzania,2021,6759636,4,Scaling,22
+74,StudyAI,EdTech,Kenya,2021,7346265,1,Early Stage,30
+75,VisionFarm,AI/ML,Rwanda,2022,2963147,5,Acquired,30
+76,PatientAI,HealthTech,South Africa,2018,3372574,6,Scaling,112
+77,BioVault,Biotechnology,Kenya,2019,2975627,9,Early Stage,88
+78,GridSense,CleanTech,Tanzania,2015,997556,5,Acquired,76
+79,PlantIQ,AgriTech,Ghana,2015,939346,10,Early Stage,46
+80,DataShield,Cybersecurity,Tanzania,2021,5115248,9,Active,51
+81,MicroPay,FinTech,Rwanda,2019,402341,7,Active,68
+82,KnowledgeBase,EdTech,Rwanda,2020,3647984,2,Scaling,81
+83,IrrigAI,AI/ML,Tanzania,2016,6067736,5,Closed,41
+84,WellnessAI,HealthTech,Uganda,2020,3405579,5,Closed,18
+85,LabCore,Biotechnology,Rwanda,2021,5607832,7,Acquired,80
+86,EcoTech,CleanTech,Ghana,2021,4626430,1,Scaling,38
+87,SeedBot,AgriTech,Rwanda,2021,6621422,10,Closed,85
+88,GuardAI,Cybersecurity,Tanzania,2022,3735969,8,Acquired,67
+89,RemitPro,FinTech,Ethiopia,2017,5556840,2,Scaling,67
+90,TalentAI,EdTech,Tanzania,2016,6895433,4,Scaling,30
+91,PrecisionGrow,AI/ML,Rwanda,2017,234895,1,Acquired,62
+92,HealthStream,HealthTech,Kenya,2022,3506583,10,Acquired,93
+93,ChemSpark,Biotechnology,Uganda,2022,3382531,4,Acquired,85
+94,SunGrid,CleanTech,South Africa,2016,6559863,7,Acquired,24
+95,AgroBot,AgriTech,Ethiopia,2015,4705858,4,Active,60
+96,NetSafe,Cybersecurity,Nigeria,2022,5630047,9,Closed,78
+97,PocketBank,FinTech,Tanzania,2022,5169300,9,Early Stage,108
+98,SmartLearn,EdTech,Ethiopia,2017,6268233,8,Early Stage,35
+99,FieldSense,AI/ML,Rwanda,2019,6454110,9,Early Stage,82
+100,MedChain,HealthTech,Rwanda,2019,3719918,2,Scaling,32
+101,GeneLab,Biotechnology,Ghana,2020,2711918,9,Active,19
+102,PowerGrid,CleanTech,Nigeria,2018,3243132,3,Acquired,10
+103,HarvestBot,AgriTech,Uganda,2021,2805634,9,Early Stage,55
+104,CyberSafe,Cybersecurity,South Africa,2018,7016797,7,Early Stage,117
+105,ZapPay,FinTech,South Africa,2024,3220867,8,Active,47
+106,CampusAI,EdTech,Ghana,2021,7189240,7,Closed,97

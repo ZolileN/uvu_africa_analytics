@@ -1,0 +1,21 @@
+partner_id,partner_name,partner_type,sector,country
+1,Microsoft,Corporate,Technology,South Africa
+2,Google,Corporate,Technology,South Africa
+3,University of Cape Town,University,Education,South Africa
+4,Stellenbosch University,University,Education,South Africa
+5,DTIC South Africa,Government,Policy,South Africa
+6,Western Cape Government,Government,Policy,South Africa
+7,Standard Bank,Corporate,Financial Services,South Africa
+8,Nedbank,Corporate,Financial Services,South Africa
+9,Amazon Web Services,Corporate,Cloud Technology,South Africa
+10,Old Mutual,Corporate,Insurance,South Africa
+11,USAID,NGO/Donor,Development,USA
+12,GIZ,NGO/Donor,Development,Germany
+13,African Development Bank,NGO/Donor,Finance,Côte d'Ivoire
+14,MTN Group,Corporate,Telecoms,South Africa
+15,Vodacom,Corporate,Telecoms,South Africa
+16,Deloitte,Corporate,Consulting,South Africa
+17,PwC,Corporate,Consulting,South Africa
+18,Cape Peninsula University,University,Education,South Africa
+19,Innovation Hub Pretoria,Government,Innovation,South Africa
+20,Rwanda Development Board,Government,Development,Rwanda

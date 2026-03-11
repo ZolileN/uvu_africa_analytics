@@ -1,0 +1,22 @@
+year,program_name,graduates,job_placements,placement_rate,top_skill,hiring_sector
+2018,CAPACITI,759,625,0.82,Software Engineering,Government
+2018,Digital Village,424,286,0.67,Cybersecurity,Financial Services
+2018,EduTech Rise,598,415,0.69,UX Design,Government
+2019,CAPACITI,369,308,0.83,Software Engineering,Retail
+2019,Digital Village,746,453,0.61,Cybersecurity,Retail
+2019,EduTech Rise,777,610,0.79,Data Analytics,Telecoms
+2020,CAPACITI,638,407,0.64,Cybersecurity,Technology
+2020,Digital Village,251,168,0.67,Cloud Engineering,Technology
+2020,EduTech Rise,665,459,0.69,Cybersecurity,Healthcare
+2021,CAPACITI,631,423,0.67,Data Analytics,Government
+2021,Digital Village,219,177,0.81,Data Analytics,Healthcare
+2021,EduTech Rise,429,335,0.78,UX Design,Financial Services
+2022,CAPACITI,231,200,0.87,Software Engineering,Financial Services
+2022,Digital Village,356,237,0.67,Cybersecurity,Telecoms
+2022,EduTech Rise,317,240,0.76,Software Engineering,Government
+2023,CAPACITI,462,376,0.81,Software Engineering,Retail
+2023,Digital Village,317,259,0.82,Software Engineering,Healthcare
+2023,EduTech Rise,310,236,0.76,Cloud Engineering,Retail
+2024,CAPACITI,584,415,0.71,UX Design,Technology
+2024,Digital Village,277,212,0.77,UX Design,Technology
+2024,EduTech Rise,304,241,0.79,Cloud Engineering,Telecoms
