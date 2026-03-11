@@ -187,7 +187,7 @@ COLOR_SEQ = ["#00e5a0", "#00b4d8", "#7b61ff", "#ff6b6b", "#ffd166", "#06d6a0", "
 
 # ── Data loader ───────────────────────────────────────────────────────────────
 
-DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
 
 @st.cache_data(ttl=3600)
 def load_data():
